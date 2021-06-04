@@ -1,4 +1,4 @@
-package com.marcobuono.helloworld;
+package com.marcobuono.restfulwebservice;
 
 import java.util.concurrent.atomic.AtomicLong;
 
